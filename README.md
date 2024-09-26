@@ -1,6 +1,6 @@
 # PuntoEnElPlano--PrimerosPasos-
 
-# Punto en el Plano Cartesiano
+## Punto en el Plano Cartesiano
 
 Este repositorio contiene una solución en C# para representar un punto en el plano cartesiano y determinar en qué cuadrante o eje se encuentra.
 
