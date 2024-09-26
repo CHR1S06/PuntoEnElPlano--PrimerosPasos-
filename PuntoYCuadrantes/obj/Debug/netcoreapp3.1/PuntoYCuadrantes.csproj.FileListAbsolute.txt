@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\bin\Debug\netcoreapp3.1\PuntoYCuadrantes.exe
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\bin\Debug\netcoreapp3.1\PuntoYCuadrantes.deps.json
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\bin\Debug\netcoreapp3.1\PuntoYCuadrantes.runtimeconfig.json
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\bin\Debug\netcoreapp3.1\PuntoYCuadrantes.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\bin\Debug\netcoreapp3.1\PuntoYCuadrantes.dll
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\bin\Debug\netcoreapp3.1\PuntoYCuadrantes.pdb
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\obj\Debug\netcoreapp3.1\PuntoYCuadrantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\obj\Debug\netcoreapp3.1\PuntoYCuadrantes.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\obj\Debug\netcoreapp3.1\PuntoYCuadrantes.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\obj\Debug\netcoreapp3.1\PuntoYCuadrantes.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\obj\Debug\netcoreapp3.1\PuntoYCuadrantes.dll
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\obj\Debug\netcoreapp3.1\PuntoYCuadrantes.pdb
+C:\Users\UserGPC\source\repos\PuntoYCuadrantes\PuntoYCuadrantes\obj\Debug\netcoreapp3.1\PuntoYCuadrantes.genruntimeconfig.cache
